@@ -1,6 +1,6 @@
 echarts结合world.js、china.js实现世界地图，中国地图以及迁徙图效果
 
-npm install echart.js
+npm install echarts
 
 即可下载echarts相关所有js
 
