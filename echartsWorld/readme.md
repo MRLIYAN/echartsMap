@@ -1,1 +1,1 @@
-echarts结合world.js实现世界地图迁徙图效果
+echarts结合china.js实现中国地图及迁徙图效果
